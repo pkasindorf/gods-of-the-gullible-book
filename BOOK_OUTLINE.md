@@ -7,9 +7,9 @@ This is a provisional architecture derived from the existing `brain` archive. Th
 Use the spirit of `brain\\Chapters\\- intro`:
 
 - Acknowledge that the book may disturb the reader's comfort zone.
-- Explain that the author is not trying to convert, belittle, destroy, preach, or dogmatize.
-- Invite readers to question every word in this book, including the author's theory.
-- State plainly that the Inner Court is a personal, unproven model rather than a scientific doctrine.
+- Explain that I am not trying to convert, belittle, destroy, preach, or dogmatize.
+- Invite readers to question every word in this book, including my theory.
+- State plainly that the Inner Council is a personal, unproven model rather than a scientific doctrine.
 
 ## Part I — We Weren't Born Sinners. We Were Born Gullible
 
@@ -21,7 +21,7 @@ Source cluster: `Chapters\\1 - we weren't born sinners. We were born gullible`, 
 - Reframe gullibility as a universal human vulnerability rather than a shameful defect.
 - “I wasn't born a sinner, but I'll admit I was born gullible.”
 - Extend the thought across parents, grandparents, and ancestors without turning it into contempt for them.
-- Introduce “Gullible no more” as the destination of the book, not as the opening claim that the author has achieved perfection.
+- Introduce “Gullible no more” as the destination of the book, not as the opening claim that I have achieved perfection.
 - Introduce the idea that inherited beliefs can feel true before they have been examined.
 
 ### Chapter 2 — My Personal Story
@@ -31,13 +31,13 @@ Source cluster: `Book\\Qualifications`, `Book\\Gods of the gullible.md`, `Book\\
 - Tell the chapter chronologically.
 - Open with discovering that Santa Claus was not real.
 - Make clear that the decisive injury was not the fact itself, but realizing that loved ones had lied and that friends and family either believed the lie or participated in it.
-- Establish that the author was ten years old, knew the truth, and nevertheless pretended to believe in order to preserve the holiday magic and please his parents.
+- Establish that I was ten years old, knew the truth, and nevertheless pretended to believe in order to preserve the holiday magic and please my parents.
 - Name this split between private knowledge and public performance as the first lived example of cognitive dissonance.
-- Use that moment to introduce the author's early rejection of religion and the wider question: how many other inherited truths are sustained by people who believe, perform, or protect them?
-- Then establish the religious family into which the author was born.
-- Move into the author's experience of believing parents, grandparents, and earlier generations.
+- Use that moment to introduce my early rejection of religion and the wider question: how many other inherited truths are sustained by people who believe, perform, or protect them?
+- Then establish the religious family into which I was born.
+- Move into my experience of believing parents, grandparents, and earlier generations.
 - Trace the path into a cult in the twenties and thirties.
-- Show what the author found there: community, purpose, ritual, structure, and the experience of transformation.
+- Show what I found there: community, purpose, ritual, structure, and the experience of transformation.
 - Include EST and The Forum associated with Werner Erhard, and Direct Centering and Nexus associated with Bayard Hora, while verifying names, dates, and descriptions before publication.
 - Show the cost: high-control groups consumed substantial time and money.
 - Continue through the years in a 12-step program and the later deconstruction of the 12 Steps.
@@ -84,7 +84,7 @@ Source cluster: `Chapters\\2 - the journey from where you are to where you want 
 - The cost of outsourcing judgment.
 - The discomfort of sustained attention, uncertainty, and responsibility.
 
-## Part III — The Inner Court
+## Part III — The Inner Council
 
 ### Chapter 6 — Two Sides of a Choice
 
@@ -96,10 +96,10 @@ Source cluster: `Religion & Cult\\3 minds`, `Chapters\\3 - 3 minds`, `Religion &
 
 ### Chapter 7 — The Judge, the Tiebreaker, and the Choice
 
-- Introduce **The Inner Court**.
+- Introduce **The Inner Council**.
 - The third function evaluates experience, morality, evidence, consequences, and advice from internalized parents, teachers, God, community, and self.
 - The final authority is the person making the choice.
-- Include the author's statement that even a command attributed to God can be refused.
+- Include my statement that even a command attributed to God can be refused.
 - Introduce later lenses: The Choice Gate, The Decision Triangle, The Inner Tiebreaker, and The Gullibility Filter.
 
 ### Chapter 8 — The Inner Conversation
@@ -111,7 +111,7 @@ Source cluster: `Chapters\\3 - 3 minds\\Dialogic inner speech`, `Britt`, `Tulpam
 - Prayer as a possible form of talking to oneself or one's higher judgment.
 - The “uncommon personal God” and the possibility of replacing “God cares” with “I care.”
 - Ask whether prayer, meditation, or a higher-power explanation is helping the person face reality or helping them avoid it.
-- Treat tulpamancy and dialogic inner speech as subjects for careful research, not proof of the author's model.
+- Treat tulpamancy and dialogic inner speech as subjects for careful research, not proof of my model.
 
 ### Chapter 9 — Require Proof
 
@@ -180,7 +180,7 @@ Source cluster: `Chapters\\4 - Propaganda`, `Book\\Gods of the Gullible\\Taking 
 
 ## Part VI — Practicing Freedom
 
-### Chapter 16 — The Inner Court in Daily Life
+### Chapter 16 — The Inner Council in Daily Life
 
 - Research before voting.
 - Separate fact, opinion, interpretation, and identity.
@@ -203,7 +203,7 @@ Source cluster: `Religion & Cult\\Core Values`, `10 commandments v2`, `Thought`.
 
 - Make experience, evidence, consent, well-being, equality, and compassion available as moral resources.
 - Develop the possible “10 commandments v2” as an exercise in writing evidence-based values.
-- Do not present the list as final or universally binding until the author decides what belongs in it.
+- Do not present the list as final or universally binding until I decide what belongs in it.
 
 ### Chapter 19 — Embracing the Other Side
 

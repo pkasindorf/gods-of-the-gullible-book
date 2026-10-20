@@ -1,5 +1,7 @@
 # Gods of the Gullible
 
+> *In this file, "I," "me," and "my" mean Peter, the author. "the LLM" means the AI assistant (any large language model).*
+
 ## Project status
 
 Early development. The folder contains a living archive of **101 markdown notes** in `brain`. Those notes are brainstorming, source material, chapter fragments, links, questions, jokes, possible scenes, and competing ideas. They are not a contract or a fixed outline. This editorial layer is meant to help develop and organize them without turning every note into a commitment.
@@ -51,15 +53,9 @@ The book's emotional destination is the affirmation: **Gullible no more.** This 
 
 ## Voice and tone
 
-Priority order:
+Voice, tone, and persona are defined in [voice.md](voice.md). That file is the single source of truth.
 
-1. Compassionate and empathetic
-2. Conversational and accessible
-3. Humorous and irreverent
-4. Provocative and confrontational
-5. Rational and analytical
-
-The book should challenge systems and habits of thought without shaming people who were raised inside them. The archive explicitly suggests not mocking religion, but “stealing” its useful human functions—community, ritual, meaning, mourning, and service—without granting religion a monopoly on them.
+Thematically, the book should challenge systems and habits of thought without shaming people who were raised inside them. The archive explicitly suggests not mocking religion, but “stealing” its useful human functions—community, ritual, meaning, mourning, and service—without granting religion a monopoly on them.
 
 ## Personal journey
 
@@ -69,7 +65,7 @@ The current autobiographical thread includes:
 - Believing parents, grandparents, and earlier ancestors
 - Joining a cult in the twenties and thirties
 - Participating in a 12-step program for many years
-- Finding community, purpose, and ritual in self-help groups the author experienced as cults, including EST and The Forum associated with Werner Erhard, and Direct Centering and Nexus associated with Bayard Hora
+- Finding community, purpose, and ritual in self-help groups I experienced as cults, including EST and The Forum associated with Werner Erhard, and Direct Centering and Nexus associated with Bayard Hora
 - Exposure to Tony Robbins-type self-improvement programs and the Twelve Steps
 - Deconstructing the 12 Steps
 - Questioning God and the Bible
@@ -82,21 +78,21 @@ The archive also holds potential scenes involving Santa Claus, religious family 
 
 The first remembered turning point is the discovery that Santa Claus was not real. The wound was not the loss of Santa; it was realizing that loved ones had lied, while friends and family either believed the lie or participated in it. This scene can become the emotional opening of the personal story.
 
-At age ten, the author knew Santa was not real but continued pretending to believe in order to preserve the holiday magic and please his parents. That split—knowing one thing while performing another—will introduce cognitive dissonance as a recurring theme.
+At age ten, I knew Santa was not real but continued pretending to believe in order to preserve the holiday magic and please my parents. That split—knowing one thing while performing another—will introduce cognitive dissonance as a recurring theme.
 
 ## Opening architecture
 
 - **Chapter 1 — We weren't born sinners. We were born gullible**: establish the shared human condition and remove the shame from the word *gullible*.
-- **Chapter 2 — My Personal Story**: tell the author's journey chronologically—from inherited religion, through cult involvement and the 12-step program, to questioning God and the Bible, finding God internally, and arriving at “Gullible no more.”
-- **Chapter 3 — How Certainty Feels**: widen the lens from the author's experience to belief, identity, community, and resistance to “I don't know.”
+- **Chapter 2 — My Personal Story**: tell my journey chronologically—from inherited religion, through cult involvement and the 12-step program, to questioning God and the Bible, finding God internally, and arriving at “Gullible no more.”
+- **Chapter 3 — How Certainty Feels**: widen the lens from my experience to belief, identity, community, and resistance to “I don't know.”
 
-This order lets the reader encounter the central idea first, then see why the author has standing to explore it, then move into the broader psychology and social forces.
+This order lets the reader encounter the central idea first, then see why I have standing to explore it, then move into the broader psychology and social forces.
 
-## Core model: The Inner Court
+## Core model: The Inner Council
 
-Primary name: **The Inner Court**
+Primary name: **The Inner Council** (renamed from "The Inner Court" on 2026-10-15). A three-function model. The current Force 1 / Force 2 / Force 3 map lives in `EDITORIAL_GUIDE.md` → The Inner Council.
 
-The Inner Court is the author's metaphor for decision-making:
+The Inner Council is my metaphor for decision-making:
 
 - Choices are evaluated and filtered toward a meaningful binary: positive/negative, black/white, left/right, yes/no.
 - The critical-thinking function acts as the inner judge or tiebreaker.
@@ -130,9 +126,9 @@ Recurring ideas include:
 - The burden of proof belongs to the truth claimant.
 - “Require proof before you commit a claim to your belief system” is a possible movement motto.
 - Resistance to “I don't know” creates pressure for false certainty.
-- The author wants readers to question every word of the book as well as every inherited belief.
+- I want readers to question every word of the book as well as every inherited belief.
 
-The Santa episode supplies the first lived example of cognitive dissonance: the author's knowledge conflicted with the behavior required to preserve belonging, love, and tradition. The book can return to this pattern when examining religion, cults, identity, and political influence.
+The Santa episode supplies the first lived example of cognitive dissonance: my knowledge conflicted with the behavior required to preserve belonging, love, and tradition. The book can return to this pattern when examining religion, cults, identity, and political influence.
 
 ### 3. God as internal experience and external authority
 
@@ -145,10 +141,6 @@ The archive asks whether religion functions as cognitive or social technology; w
 The proposed distinction is:
 
 > A life can change because of structure, discipline, standards, rules, community, and accountability. That change does not itself prove a God exists.
-
-The personal story should acknowledge that high-control groups can provide genuine experiences of community, purpose, ritual, discipline, and transformation. The question is not whether those benefits were real, but what they cost, who controlled the meaning, and whether the benefits require the group's truth claims.
-
-The concrete costs included substantial time and money. These costs should be treated as part of the control system and as part of the author's honest accounting—not as proof that every experience or benefit was meaningless.
 
 ### 5. Fear, hate, unity, identity, and tribal belonging
 
@@ -166,7 +158,7 @@ The “10 commandments v2” note is best treated as a possible secular ethics e
 
 ### 8. Ritual, spirituality, grief, and meaning after religion
 
-The archive preserves practices the author values as an atheist: speaking to parents, saying “I love you,” wishing a daughter safe travels, talking to the dead while knowing they cannot hear, and using ritual to process emotion. It asks whether religion has monopolized spirituality and whether science can provide spiritual benefits without supernatural claims.
+The archive preserves practices I value as an atheist: speaking to parents, saying “I love you,” wishing a daughter safe travels, talking to the dead while knowing they cannot hear, and using ritual to process emotion. It asks whether religion has monopolized spirituality and whether science can provide spiritual benefits without supernatural claims.
 
 ### 9. The work of changing one's mind
 
@@ -185,19 +177,23 @@ Useful contrasts include:
 - “Everything happens for a reason” versus acknowledging pain and responsibility
 - Hope versus toxic positivity
 
+### 11. Judge systems, not people
+
+One of the book's driving themes. The book is blunt, even polemical, about doctrines, institutions, and the mechanics of manipulation, and humane toward the people who inherited those systems or were caught by them. It shapes both the argument and the voice (see [voice.md](voice.md)).
+
 ## Source archive map
 
 The current `brain` folders suggest these working areas:
 
-- `Chapters\\- intro` — reader contract, humility, non-conversion, and questioning the author
+- `Chapters\\- intro` — reader contract, humility, non-conversion, and questioning me
 - `Chapters\\1 - we weren't born sinners. We were born gullible` — gullibility, inherited belief, decision-making, and “Gullible no more”
 - `Chapters\\2 - the journey from where you are to where you want to be` — change, discipline, research, and hard work
-- `Chapters\\3 - 3 minds` — Inner Court material, inner speech, prayer, proof, and tulpamancy
+- `Chapters\\3 - 3 minds` — Inner Council material, inner speech, prayer, proof, and tulpamancy
 - `Chapters\\4 - Propaganda` — influence and information control
 - `Chapters\\Critical Thinking` — proof and a possible critical-thinking movement
 - `Book` — title pool, personal God, rituals, belief, Santa, and broad book statements
 - `Book\\Gods of the Gullible` — fear, hate, religion, identity, dehumanization, “I don't know,” and control
-- `Religion & Cult\\3 minds` — the most concentrated Inner Court archive
+- `Religion & Cult\\3 minds` — the most concentrated Inner Council archive
 - `Religion & Cult\\Man made god` — origins, motives, uses, and consequences of God concepts
 - `Religion & Cult` — values, dress, evangelism, identity, science, belief, thought, fear, and atheist practice
 - `gog Video` — possible video motifs, links, and the proof motto
@@ -208,8 +204,8 @@ The archive contains useful claims and links, but not all are verified. Scientif
 
 Questions still open include:
 
-- What exactly are the two sides being filtered by the Inner Court?
-- How should “binary” be reconciled with the archive's note that life often requires choosing between bad and worse?
+- What exactly are the two sides being filtered by the Inner Council? *(Partly answered: Force 1 and Force 2. See `EDITORIAL_GUIDE.md`.)*
+- How should “binary” be reconciled with the archive's note that life often requires choosing between bad and worse? *(Answered: binary is the final choice, the last two options. See `EDITORIAL_GUIDE.md`.)*
 - Which parts of the cult and 12-step story can be told specifically and publicly?
 - What definition of proof will the practical guide teach?
 - How should the book distinguish healthy skepticism from reflexive distrust?
